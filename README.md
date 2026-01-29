@@ -51,6 +51,3 @@ The dataset contains information about people involved in movies/TV shows.
 
 ## Conclusion
 This mini project provided hands-on experience in real-world data analysis, especially in handling missing values and extracting insights from raw data.
-
-
-
