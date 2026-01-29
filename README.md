@@ -30,11 +30,19 @@ The dataset contains information about people involved in movies/TV shows.
 6. Frequency analysis of people
 7. Data visualization using charts
 
-## Visualizations Used
-- Bar charts for role distribution
-- Count plots for frequency analysis
-- Heatmap to identify missing values
-- Pie charts for proportional insights
+## Visualizations
+
+### Role Distribution
+![Role Distribution](images/role_distribution.png)
+
+### Missing Values Heatmap
+![Missing Values](images/missing_values_heatmap.png)
+
+### Role Percentage
+![Role Pie Chart](images/role_pie_chart.png)
+
+## Heatmap Visualization
+![Missing Character Heatmap](images/missing_character_heatmap.png)
 
 ## Key Insights
 - Majority of records belong to actors
